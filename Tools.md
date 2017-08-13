@@ -1,4 +1,4 @@
-# APRResources
+# Tools and Resources
 Library of Automatic Programming Repair tools and findings
 - Additional resource [Programming-Repair](http://program-repair.org/tools.html)
 
